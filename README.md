@@ -6,18 +6,18 @@ Modules Used
 	express:	server requests
 	request:	connection to the RSS feed link
 	cheerio:	parsing the xml
-	fs:			writing to the file
+	fs:		writing to the file
 
 Input:
 	Link to the RSS feed page
 	Example links:	http://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml
-					http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+			http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
 
-Output:
+Output
 	Links to all the news articles on the RSS feed are written to the file 'log.txt'
 
-Usage:
+Usage
 	node main.js full-link-to-the-rss-feed
 
-Known Issues:
+Known Issues
 	server.close() not working.
