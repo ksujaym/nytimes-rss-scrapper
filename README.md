@@ -3,7 +3,6 @@
 A simple crawler for scrapping links on RSS feeds.
 
 ##### Modules Used
-	
 	express:	server requests
 	request:	connection to the RSS feed link
 	cheerio:	parsing the xml
