@@ -10,7 +10,7 @@ A simple crawler for scrapping links on RSS feeds.
 
 ##### Input:
 	Link to the RSS feed page
-	Example links:
+	Example input links:
 		http://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml
 		http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
 
