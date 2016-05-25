@@ -6,7 +6,7 @@ A simple crawler for scrapping links on RSS feeds.
 	express:	server requests
 	request:	connection to the RSS feed link
 	cheerio:	parsing the xml
-	fs:		writing to the file
+	fs:			writing to the file
 
 ##### Input:
 	Link to the RSS feed page
