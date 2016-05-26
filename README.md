@@ -18,7 +18,7 @@ A simple crawler for scrapping links on RSS feeds.
 	Links to all the news articles on the RSS feed are written to the file 'log.txt'
 
 ##### Usage:
-	node main.js full-link-to-the-rss-feed
-
+	$ node main.js full-link-to-the-rss-feed
+	
 ##### Known Issues:
 	server.close() not working.
